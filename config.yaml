@@ -3,8 +3,8 @@ build:
 
 module:
   imports:
-    - path: wangchucheng.com/hugo-marble/search
-    - path: wangchucheng.com/hugo-marble/utils
+    - path: github.com/hugo-eureka-esr/hugo-marble/search
+    - path: github.com/hugo-eureka-esr/hugo-marble/utils
     - path: github.com/FortAwesome/Font-Awesome
       mounts:
         - source: js-packages/@fortawesome/fontawesome-svg-core

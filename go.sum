@@ -1,6 +1,4 @@
-github.com/FortAwesome/Font-Awesome v0.0.0-20210804190922-7d3d774145ac h1:AjwgwoaDsNEA1Wtc8pgw/BqG7SEk9bKxXPjEPQQ42vY=
-github.com/FortAwesome/Font-Awesome v0.0.0-20210804190922-7d3d774145ac/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
-wangchucheng.com/hugo-marble/search v0.1.0 h1:C2xZmTOJVCvmXmHi+dpxVzFsqm1Ahbhc6e5f0Zo8gvA=
-wangchucheng.com/hugo-marble/search v0.1.0/go.mod h1:rPC7wEHCCBmu0M/pL6M+lvgWiDoNsi/QweRbhF32WmI=
-wangchucheng.com/hugo-marble/utils v0.1.0-alpha.1 h1:xgVAtUcL6rsWPrclQogE4v9ayaLScqxodEV8OKVthS0=
-wangchucheng.com/hugo-marble/utils v0.1.0-alpha.1/go.mod h1:+KrIaZCw4A7rhu73Dx1RgzXOMXr2pAG3Bg90qz3BpGo=
+github.com/hugo-eureka-esr/hugo-marble/search v0.1.0 h1:s/cY8KHHOSf1p0dSfKKcoknA/6FO5fq3Z7xeaREfDGs=
+github.com/hugo-eureka-esr/hugo-marble/search v0.1.0/go.mod h1:RzTvjRWEWcZ3nsy8PXfBs24NG1V39+7CCzbtDfVaT7w=
+github.com/hugo-eureka-esr/hugo-marble/utils v0.1.0 h1:ERW5E3+uAMkKpSBB7dixny6kXaO+Cq8Peg6L5uLRgIc=
+github.com/hugo-eureka-esr/hugo-marble/utils v0.1.0/go.mod h1:9WcIwHYwqm/gwRGsj0mbWEXCTlX2cBJSPM67+474kKo=

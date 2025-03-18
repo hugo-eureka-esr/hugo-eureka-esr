@@ -155,14 +155,14 @@
 {{- end }}
 {{- end }}
 
-{{- if and .Site.GoogleAnalytics hugo.IsProduction }}
+{{- if and .Site.Config.Services.GoogleAnalytics.ID hugo.IsProduction }}
 <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Config.Services.GoogleAnalytics.ID }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
-  gtag('config', '{{ .Site.GoogleAnalytics }}');
+  gtag('config', '{{ .Site.Config.Services.GoogleAnalytics.ID }}');
 </script>
 {{- end }}
 

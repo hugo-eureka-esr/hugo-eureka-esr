@@ -57,7 +57,7 @@ jobs:
         git add . && git commit -m "chore: upgrade to Eureka ${GITHUB_REF#refs/*/v}"
         git config --unset-all http.https://github.com/.extraheader # https://stackoverflow.com/a/69979203
     - name: Push to Starters
-      uses: ad-m/github-push-action@v0.6.0
+      uses: ad-m/github-push-action@v0.8.0
       with:
         github_token: ${{ secrets.RELEASE_GITHUB_TOKEN }}
         directory: starters

@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Eureka
         uses: actions/checkout@v4
       - name: Release Eureka
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           generate_release_notes: true
   release-starters:
@@ -64,7 +64,7 @@ jobs:
         repository: wangchucheng/hugo-eureka-starters
         branch: main
     - name: Release Starters
-      uses: softprops/action-gh-release@v1
+      uses: softprops/action-gh-release@v2
       with:
         repository: wangchucheng/hugo-eureka-starters
         generate_release_notes: true

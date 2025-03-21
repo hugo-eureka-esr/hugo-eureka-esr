@@ -11,7 +11,7 @@ jobs:
     name: Release Eureka
     steps:
       - name: Checkout Eureka
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Release Eureka
         uses: softprops/action-gh-release@v1
         with:
@@ -21,11 +21,11 @@ jobs:
     name: Release Starters
     steps:
     - name: Checkout Eureka
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         path: 'eureka'
     - name: Checkout Starters
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
         repository: wangchucheng/hugo-eureka-starters

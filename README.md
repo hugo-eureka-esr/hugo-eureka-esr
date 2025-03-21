@@ -30,6 +30,7 @@ Read [Getting Started](https://www.wangchucheng.com/en/docs/hugo-eureka/getting-
 
 - [wangchucheng.com](https://www.wangchucheng.com)
 - [ruiqima.com](https://www.ruiqima.com)
+- [marijnk.nl](https://marijnk.nl)
 - and more...
 
 Are you using Hugo Eureka? [Add the `hugo-eureka` topic on your repo!](https://docs.github.com/en/github/administering-a-repository/classifying-your-repository-with-topics) 🙌

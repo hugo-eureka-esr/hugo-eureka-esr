@@ -96,7 +96,7 @@
 <link rel="stylesheet" href="{{ $highlightjsCSS.Permalink }}" media="print" onload="this.media='all';this.onload=null">
 {{- end }}
 
-{{ $fontawesomeJS := resources.Get "js/fontawesome.js" | resources.ExecuteAsTemplate "js/fontawesome.js" . | js.Build (dict "minify" true) | minify | fingerprint "sha384" }}
+{{ $fontawesomeJS := resources.Get "js/fontawesome.js" | resources.ExecuteAsTemplate "js/fontawesome.js" . | js.Build (dict "minify" false) | fingerprint "sha384" }}
 <script defer type="text/javascript" src="{{ $fontawesomeJS.Permalink }}"></script>
 
 

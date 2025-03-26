@@ -2,8 +2,7 @@
 
 # Eureka ESR
 
-[![release](https://github.com/hugo-eureka-esr/hugo-eureka-esr/actions/workflows/release.yaml/badge.svg)](https://github.com/hugo-eureka-esr/hugo-eureka-esr/actions/workflows/release.yaml)
-![license](https://img.shields.io/github/license/wangchucheng/hugo-eureka)
+[![release](https://github.com/hugo-eureka-esr/hugo-eureka-esr/actions/workflows/release.yaml/badge.svg)](https://github.com/hugo-eureka-esr/hugo-eureka-esr/actions/workflows/release.yaml) ![license](https://img.shields.io/github/license/wangchucheng/hugo-eureka)
 
 Eureka ESR是一个功能丰富且可高度定制化的[Hugo]主题，使用Eureka ESR可以让你轻松快捷地定制并部署网站。
 

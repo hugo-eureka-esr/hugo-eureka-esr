@@ -2,8 +2,7 @@ English | [简体中文](https://github.com/hugo-eureka-esr/hugo-eureka-esr/blob
 
 # Eureka ESR
 
-[![release](https://github.com/hugo-eureka-esr/hugo-eureka-esr/actions/workflows/release.yaml/badge.svg)](https://github.com/hugo-eureka-esr/hugo-eureka-esr/actions/workflows/release.yaml)
-![license](https://img.shields.io/github/license/wangchucheng/hugo-eureka)
+[![release](https://github.com/hugo-eureka-esr/hugo-eureka-esr/actions/workflows/release.yaml/badge.svg)](https://github.com/hugo-eureka-esr/hugo-eureka-esr/actions/workflows/release.yaml) ![license](https://img.shields.io/github/license/wangchucheng/hugo-eureka)
 
 Eureka ESR is a feature-rich and highly customizable [Hugo] theme. Using Eureka allows you to customize and deploy your website quickly and easily.
 

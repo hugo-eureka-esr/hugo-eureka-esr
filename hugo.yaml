@@ -3,6 +3,8 @@ build:
   writeStats: true
 
 module:
+  hugoVersion:
+    min: "0.128.0"
   imports:
     - path: github.com/hugo-eureka-esr/hugo-marble/search
     - path: github.com/hugo-eureka-esr/hugo-marble/utils

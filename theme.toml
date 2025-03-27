@@ -28,10 +28,6 @@ tags = [
 ]
 features = ["Blog", "Responsive", "Documentation", "Light", "Dark"]
 
-[module]
-[module.hugoVersion]
-min = "0.128.0"
-
 authors = [
     { name = "C. Wang", homepage = "https://www.wangchucheng.com/" },
     { name = "R. Ma", homepage = "https://ruiqima.com/" },

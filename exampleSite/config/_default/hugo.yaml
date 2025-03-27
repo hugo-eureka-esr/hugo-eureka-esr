@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: 'https://example.org/'
 title: Eureka Demo
 
 # Uncomment when not installing with Hugo Modules

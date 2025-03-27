@@ -1,3 +1,4 @@
+<!-- Modified from the original by Eureka ESR contributors. -->
 English | [简体中文](https://github.com/hugo-eureka-esr/hugo-eureka-esr/blob/main/README.zh.md)
 
 # Eureka ESR

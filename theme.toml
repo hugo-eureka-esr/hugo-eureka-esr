@@ -1,3 +1,4 @@
+# Modified from the original by Eureka ESR contributors.
 name = "Eureka"
 license = "Apache 2.0"
 licenselink = "https://github.com/hugo-eureka-esr/hugo-eureka-esr/blob/main/LICENSE"

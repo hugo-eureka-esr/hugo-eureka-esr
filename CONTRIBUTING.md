@@ -1,3 +1,4 @@
+<!-- Modified from the original by Eureka ESR contributors. -->
 Thank you for investing your time in contributing to Eureka! This is a document that is still under construction and therefore does not cover all considerations during development.
 
 ## CSS Resources

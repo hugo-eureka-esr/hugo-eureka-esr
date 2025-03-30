@@ -1,5 +1,5 @@
 <!-- Modified from the original by Eureka ESR contributors. -->
-Thank you for investing your time in contributing to Eureka! This is a document that is still under construction and therefore does not cover all considerations during development.
+Thank you for investing your time in contributing to Eureka ESR! This is a document that is still under construction and therefore does not cover all considerations during development.
 
 ## CSS Resources
 
@@ -21,4 +21,4 @@ When doing so make sure to use production mode so they are optimized.
 
 ## Font Awesome
 
-Eureka reduce the size of Font Awesome with tree shaking. If your PR contains changes to Font Awesome icons, please make sure to update `layouts/partials/utils/get-fontawesome-icons.html` to include all related icons.
+Eureka ESR reduces the size of Font Awesome with tree shaking. If your PR contains changes to Font Awesome icons, please make sure to update `layouts/partials/utils/get-fontawesome-icons.html` to include all related icons.

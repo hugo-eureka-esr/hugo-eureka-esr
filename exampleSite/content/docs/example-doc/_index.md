@@ -1,6 +1,6 @@
 ---
 title: Example Doc
-description: This is an example doc layout of Eureka theme
+description: This is an example doc layout of Eureka ESR theme
 toc: true
 authors:
 tags:

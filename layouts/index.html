@@ -10,7 +10,7 @@
 
     {{/* Deprecation warning(v1.0.0) starts */}}
   {{ else }}
-    {{ warnf "Param 'hero' in params.toml is deprecated and will be removed in Eureka v1.0.0. See https://www.wangchucheng.com/en/docs/hugo-eureka/homepage-configuration/" }}
+    {{ warnf "Param 'hero' in params.toml is deprecated and will be removed in Eureka ESR v1.0.0. See https://www.wangchucheng.com/en/docs/hugo-eureka/homepage-configuration/" }}
     <div class="bg-secondary-bg pl-scrollbar">
       <div class="mx-auto max-w-screen-xl">
         <div class="h-(screen-16) grid grid-cols-9 grid-rows-5">
@@ -211,7 +211,7 @@
       >
         {{/* Deprecation warning(v1.0.0) starts */}}
         {{- if eq .Params.widget.handler "experiences" }}
-          {{- warnf "Value `experiences` for `widget.handler` in %s is deprecated and will be removed in Eureka v1.0.0. Please use `experience` instead." .File.Path }}
+          {{- warnf "Value `experiences` for `widget.handler` in %s is deprecated and will be removed in Eureka ESR v1.0.0. Please use `experience` instead." .File.Path }}
           {{ partial (printf "widgets/%s" "experience") . }}
         {{- else }}
           {{/* Deprecation warning(v1.0.0) ends */}}
@@ -225,7 +225,7 @@
   {{ else }}
     {{/* Deprecation warning(v1.0.0) starts */}}
     {{- if eq .Params.widget.handler "experiences" }}
-      {{- warnf "Value `experiences` for `widget.handler` in %s is deprecated and will be removed in Eureka v1.0.0. Please use `experience` instead." .File.Path }}
+      {{- warnf "Value `experiences` for `widget.handler` in %s is deprecated and will be removed in Eureka ESR v1.0.0. Please use `experience` instead." .File.Path }}
       {{ partial (printf "widgets/%s" "experience") . }}
     {{- else }}
       {{/* Deprecation warning(v1.0.0) ends */}}

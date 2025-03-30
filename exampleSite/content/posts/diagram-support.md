@@ -13,7 +13,7 @@ featuredImage:
 draft: false
 ---
 
-Eureka supports the rendering of diagrams by using Mermaid.
+Eureka ESR supports the rendering of diagrams by using Mermaid.
 
 <!--more-->
 

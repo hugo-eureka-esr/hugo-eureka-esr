@@ -53,7 +53,7 @@
 {{ end }}
 <title>{{ partial "get-title" . }}</title>
 
-<meta name="generator" content="Hugo Eureka {{ .Site.Data.eureka.version }}" />
+<meta name="generator" content="Hugo Eureka ESR {{ .Site.Data.eureka.version }}" />
 
 {{- $eurekaCSS := resources.Get "css/eureka.css" | postCSS (dict "config" "./assets/css/postcss.config.js" "inlineImports" true) | resources.ExecuteAsTemplate "css/eureka.css" . | minify | fingerprint "sha384" }}
 <link rel="stylesheet" href="{{ $eurekaCSS.Permalink }}">
@@ -110,7 +110,7 @@
       {{- $enableMath = .Params.enableMath }}
     {{/* Deprecation warning(v1.0.0) starts */}}
     {{- else if and (ne .Params.math nil) (ne .Params.math "") }}
-      {{ warnf "Param 'math' in %q is deprecated and will be removed in Eureka v1.0.0. Please use 'enableMath' instead." .File.Path }}
+      {{ warnf "Param 'math' in %q is deprecated and will be removed in Eureka ESR v1.0.0. Please use 'enableMath' instead." .File.Path }}
       {{- $enableMath = .Params.math }}
     {{/* Deprecation warning(v1.0.0) ends */}}
     {{- end }}

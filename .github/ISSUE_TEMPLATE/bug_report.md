@@ -29,7 +29,7 @@ If applicable, add screenshots to help explain your problem.
 **Environment**
 
  - Hugo Version: [e.g. v0.80.0]
- - Eureka Version: [e.g. v0.5.0]
+ - Eureka ESR Version: [e.g. v0.5.0]
 
 **Additional context**
 

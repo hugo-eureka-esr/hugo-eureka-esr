@@ -1,7 +1,7 @@
 ---
 name: Feature request
 labels: 'enhancement'
-about: Suggest an idea for Hugo Eureka.
+about: Suggest an idea for Hugo Eureka ESR.
 ---
 
 **Is your feature request related to a problem? Please describe.**

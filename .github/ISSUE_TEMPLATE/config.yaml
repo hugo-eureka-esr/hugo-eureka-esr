@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Support
-    url: https://github.com/wangchucheng/hugo-eureka/discussions
+    url: https://github.com/orgs/hugo-eureka-esr/discussions
     about: Please ask and answer questions here.

@@ -13,7 +13,7 @@ featuredImage:
 draft: false
 ---
 
-Eureka supports the rendering of mathematical formulas by using KaTeX.
+Eureka ESR supports the rendering of mathematical formulas by using KaTeX.
 
 <!--more-->
 

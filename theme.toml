@@ -4,6 +4,7 @@ license = "Apache 2.0"
 licenselink = "https://github.com/hugo-eureka-esr/hugo-eureka-esr/blob/main/LICENSE"
 description = "Eureka ESR is a feature-rich and highly customizable Hugo theme."
 homepage = "https://github.com/hugo-eureka-esr/hugo-eureka-esr"
+demosite = "https://hugo-eureka-esr.github.io/hugo-eureka-esr/"
 tags = [
     "blog",
     "Responsive",
